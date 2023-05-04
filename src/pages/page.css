@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    text-align: center;
+}
+.tableBody {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+  }
+  tr{
+    border: 1px solid #eee;
+  }
+  .page-number{
+    padding: 5px 15px;
+    cursor: pointer;
+    /* padding-top: 50px; */
+    margin: auto;
+    border: 1px solid #eee;
+  }
+  .pageination-container{
+    
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px; width: 200px;
+  }
+  .selected-page{
+    border-bottom: 1px solid brown;
+  }
